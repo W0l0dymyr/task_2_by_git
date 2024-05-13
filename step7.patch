@@ -1,0 +1,24 @@
+From 3490bbf78cc865dc0e8429c8634d24e3042ea6fa Mon Sep 17 00:00:00 2001
+From: W0l0dymyr <wlachowskyj@gmail.com>
+Date: Fri, 20 Dec 2024 21:36:42 +0200
+Subject: [PATCH] Modified two lines in firstFile.txt
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..ee4fe31 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++11
++22
+ 3
+ 4
+ 5
+-- 
+2.36.1.windows.1
+
